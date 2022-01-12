@@ -1,0 +1,14 @@
+
+{
+    "prefix": "!",
+    "token": "",
+    "guildID": "",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}
